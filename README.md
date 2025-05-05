@@ -1,4 +1,4 @@
-![Coordify Logo](images/banner-git.png)
+![Coordify Logo](.images/banner-git.png)
 
 <div align="center">
   
