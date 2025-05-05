@@ -10,12 +10,14 @@
 # Coordify
 A lightweight PaperMC plugin that broadcasts a player's coordinates in chat using the `/coords` command. Perfect for survival servers where players want to share their location with customizable colors.
 
+<p align="center">
+  <img src=".images/preview-small.png" />
+</p>
+
 ## Features 
 - Customizable colors for player name, coordinates, and world via `config.yml`
 - Supports Overworld, Nether, and End
 - Minimal resource usage
-
-> **Note**: Avoid using `/reload` as it may cause errors (e.g., `ConcurrentModificationException`). Always restart the server to apply changes to `config.yml`.
 
 ## ⚙️ Configuration
 Edit `plugins/Coordify/config.yml` to customize colors for the `/coords` output:
@@ -30,6 +32,7 @@ colors:
     end: "§e"           # Color for End
 ```
 Restart the server after editing to apply changes.
+> **Note**: Avoid using `/reload` as it may cause errors (e.g., `ConcurrentModificationException`). Always restart the server to apply changes to `config.yml`.
 
 ## 🛠️ Supported Versions
 - **PaperMC**: 1.21-1.21.5 (recommended: 1.21.5)
