@@ -1,4 +1,4 @@
-![Coordify Logo](images/coordify-logo.png)
+![Coordify Logo](images/banner-git.png)
 
 <div align="center">
   
@@ -33,7 +33,7 @@ colors:
 Restart the server after editing to apply changes.
 
 ## 🛠️ Supported Versions
-- **PaperMC**: 1.13–1.21.5 (recommended: 1.21.5)
+- **PaperMC**: 1.21-1.21.5 (recommended: 1.21.5)
 - **Spigot**: Likely compatible, but PaperMC is preferred for optimizations
 - **Unsupported**: Vanilla Minecraft, Forge, Fabric
 
@@ -46,16 +46,11 @@ For older versions (e.g., 1.13–1.20), set `api-version: 1.13` in `plugin.yml` 
 
 ### Steps
 ```bash
-git clone https://github.com/yourusername/coordify.git
+git clone https://github.com/h6rd/coordify.git
 cd coordify
 mvn clean package -Pmc-1.21.5
 ```
-The compiled `Coordify-1.0-SNAPSHOT.jar` will be in the `target` folder.
-
-For other versions (e.g., 1.20.6):
-```bash
-mvn clean package -Pmc-1.20.6
-```
+The compiled `Coordify-1.0.jar` will be in the `target` folder.
 
 ## 📜 License
 [MIT License](LICENSE) - Free to use, modify, and distribute.
