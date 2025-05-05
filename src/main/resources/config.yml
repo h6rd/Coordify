@@ -1,0 +1,9 @@
+# Colors https://minecraft.fandom.com/wiki/Formatting_codes
+colors:
+  player: "§b"          # Color for player's name
+  coords: "§a"          # Color for X, Y, Z coordinates
+  text: "§7"            # Color for "is at" and "in the"
+  worlds:
+    overworld: "§a"     # Color for Overworld
+    nether: "§c"        # Color for Nether
+    end: "§e"           # Color for End

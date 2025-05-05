@@ -1,0 +1,8 @@
+name: Coordify
+version: 1.0
+main: org.hrdq.coordify.CoordifyPlugin
+api-version: 1.21
+commands:
+  coords:
+    description: Displays the player's coordinates in the chat.
+    usage: /<command>
