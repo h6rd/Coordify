@@ -5,7 +5,8 @@
   <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-1.21.x-brightgreen" alt="Minecraft Version"></a>
   <a href="https://papermc.io/"><img src="https://img.shields.io/badge/Server-PaperMC-orange" alt="Server"></a>
   <a href="https://modrinth.com/plugin/coordify"><img src="https://img.shields.io/badge/Download-Modrinth-00AF5C" alt="Modrinth"></a>
-  <a href="https://github.com/h6rd/Coordify/releases/"><img src="https://img.shields.io/github/v/release/h6rd/Coordify" alt="Release">
+  <a href="https://hangar.papermc.io/hrdq/Coordify"><img src="https://img.shields.io/badge/Download-Hangar-blue" alt="Hangar"></a>
+  <a href="https://github.com/h6rd/Coordify/releases"><img src="https://img.shields.io/badge/Download-Github-black" alt="Github"></a>
 </div>
 
 # Coordify
