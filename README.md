@@ -10,7 +10,7 @@
 </div>
 
 # Coordify
-A lightweight PaperMC plugin that broadcasts a player's coordinates in chat using the `/coords` command. Perfect for survival servers where players want to share their location with customizable colors.
+A lightweight PaperMC plugin that broadcasts a player's coordinates in chat using the `/coords` command. Perfect for survival servers where players want to share their location.
 
 <p align="center">
   <img src=".images/preview-small.png" />
